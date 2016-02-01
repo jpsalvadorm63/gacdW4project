@@ -1,6 +1,6 @@
 Getting and cleaning data
 =========================
-Week 4 *project **DocBook***
+Week 4 *project **CodeBook***
 ----------------------------
 
 - Juan P. Salvador, 30JAN2016
